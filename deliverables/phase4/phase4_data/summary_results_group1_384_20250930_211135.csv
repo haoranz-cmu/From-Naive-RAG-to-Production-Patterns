@@ -1,0 +1,4 @@
+k,avg_f1_score,avg_exact_match,model_name,embedding_dim,num_samples,seed
+3,0.4,0.4,sentence-transformers/all-MiniLM-L6-v2,384,5,42
+5,0.4,0.4,sentence-transformers/all-MiniLM-L6-v2,384,5,42
+10,0.45714285714285713,0.4,sentence-transformers/all-MiniLM-L6-v2,384,5,42

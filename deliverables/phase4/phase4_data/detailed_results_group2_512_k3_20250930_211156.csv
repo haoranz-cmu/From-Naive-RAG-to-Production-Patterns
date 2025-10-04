@@ -1,0 +1,41 @@
+question,true_answer,predicted_answer,prompt,f1_score,exact_match,k,embedding_dim,model_name
+What is actually black in color?,A polar bear's skin.,The back and possibly the flanks and limbs of a pseudo-melanistic leopard.,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: A pseudo-melanistic leopard has a normal background colour, but its excessive markings have coalesced so that its back seems to be an unbroken expanse of black. In some specimens, the area of solid black extends down the flanks and limbs; only a few lateral streaks of golden-brown indicate the presence of normal background colour. Any spots on the flanks and limbs that have not merged into the mass of swirls and stripes are unusually small and discrete, rather than forming rosettes. The face and underparts are paler and dappled like those of ordinary spotted leopards. A melanistic leopard, or ""black panther"" Fur coloration varies greatly, running from gray to gray-brown, all the way through the canine spectrum of white, red, brown, and black. These colors tend to mix in many populations to form predominantly blended individuals, though it is certainly not uncommon for an individual or an entire population to be entirely one color (usually all black or all white). A multicolor coat characteristically lacks any clear pattern other than it tends to be lighter on the animal's underside. Fur color sometimes corresponds with a given wolf population's environment; for example, all-white wolves are much more common in areas with perennial snow cover. Aging wolves acquire a grayish tint in their coats.
+
+Question: What is actually black in color?
+
+Answer:",0.125,0.0,3,512,BAAI/bge-base-en-v1.5
+When did he become a professor?,1820,1820,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: In 1820 he became a professor of physics at the University of Turin. (Note: After the downfall of Napoléon in 1815, northern Italy was under the rule of the Kingdom of Piedmont-Sardinia and Turin was the capital of this kingdom.) In June of 1832, the University of Oxford granted Faraday a Doctor of Civil Law degree (honorary). During his lifetime, Faraday rejected a knighthood and twice refused to become President of the Royal Society. He was elected Lucasian Professor of Mathematics in 1669. In that day, any fellow of Cambridge or Oxford had to be an ordained Anglican priest. However, the terms of the Lucasian professorship required that the holder not be active in the church (presumably so as to have more time for science). Newton argued that this should exempt him from the ordination requirement, and Charles II, whose permission was needed, accepted this argument. Thus a conflict between Newton's religious views and Anglican orthodoxy was averted.
+
+Question: When did he become a professor?
+
+Answer:",1.0,1.0,3,512,BAAI/bge-base-en-v1.5
+"What does ""Era of Good Feelings"" refers to?",Reduced tension,The presidency of James Monroe,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: * George Dangerfield. The Era of Good Feelings (1952).  Queen Elizabeth II of Great Britain referred to this episode in July 7, 1976 at the White House.  She said, ""John Adams, America's first Ambassador, said to my ancestor, King George III, that it was his desire to help with the restoration of ""the old good nature and the old good humor between our peoples."" That restoration has long been made, and the links of language, tradition, and personal contact have maintained it.""  See   /ref> These ""good feelings"" endured until 1824, when he executed the controversial Monroe Transfer. Monroe, with his popularity undiminished, followed nationalist policies. Across the commitment to nationalism, sectional cracks appeared. The Panic of 1819 caused a painful economic depression. The application for statehood by the Missouri Territory, in 1819, as a slave state failed. An amended bill for gradually eliminating slavery in Missouri precipitated two years of bitter debate in Congress. The Missouri Compromise bill resolved the struggle, pairing Missouri as a slave state with Maine, a free state, and barring slavery north and west of Missouri forever.
+
+Question: What does ""Era of Good Feelings"" refers to?
+
+Answer:",0.0,0.0,3,512,BAAI/bge-base-en-v1.5
+Does the state court rule on the conformity of laws?,Yes,Yes,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: Judicial authority is vested in the Regional Court at Vaduz, the Princely High Court of Appeal at Vaduz, the Princely Supreme Court, the Administrative Court, and the State Court. The State Court rules on the conformity of laws with the constitution. The State Court has five members elected by the parliament. the gist of all policy is decided by the legislature Like the Netherlands and the United Kingdom, Finland has no constitutional court, and courts may not strike down laws or pronounce on their constitutionality. In principle, the constitutionality of laws in Finland is verified by a simple vote in the parliament. However, the constitutional committee in the parliament reviews legistlation during the lawmaking process, and thus performs a similar role.
+
+Question: Does the state court rule on the conformity of laws?
+
+Answer:",1.0,1.0,3,512,BAAI/bge-base-en-v1.5
+What do turles use to breathe in the water?,Papillae,papillae,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: Even though many turtles spend large amounts of their lives underwater, all turtles and tortoises breathe air, and must surface at regular intervals to refill their lungs. They can also spend much of their lives on dry land. Aquatic respiration in Australian freshwater turtles is currently being studied. Some species have large cloacal cavities that are lined with many finger-like projections. These projections, called ""papillae"", have a rich blood supply, and serve to increase the surface area of the cloaca. The turtles can take up dissolved oxygen from the water using these papillae, in much the same way that fish use gills to respire. They have a very soft underfur which is protected by their outer layer of long guard hair. This traps a layer of air, and keeps them dry and warm under water. The trunk is also used for drinking. Elephants suck water up into the trunk (up to fifteen quarts or fourteen litres at a time) and then blow it into their mouth. Elephants also inhale water to spray on their body during bathing. On top of this watery coating, the animal will then spray dirt and mud, which act as a protective sunscreen. When swimming, the trunk makes an excellent snorkel.
+
+Question: What do turles use to breathe in the water?
+
+Answer:",1.0,1.0,3,512,BAAI/bge-base-en-v1.5

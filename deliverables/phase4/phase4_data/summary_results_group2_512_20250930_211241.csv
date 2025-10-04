@@ -1,0 +1,4 @@
+k,avg_f1_score,avg_exact_match,model_name,embedding_dim,num_samples,seed
+3,0.625,0.6,BAAI/bge-base-en-v1.5,512,5,42
+5,0.6,0.6,BAAI/bge-base-en-v1.5,512,5,42
+10,0.6571428571428571,0.6,BAAI/bge-base-en-v1.5,512,5,42

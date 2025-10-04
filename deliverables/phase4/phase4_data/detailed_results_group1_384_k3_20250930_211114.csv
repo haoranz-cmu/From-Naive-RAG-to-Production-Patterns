@@ -1,0 +1,41 @@
+question,true_answer,predicted_answer,prompt,f1_score,exact_match,k,embedding_dim,model_name
+What is actually black in color?,A polar bear's skin.,the leopard's fur,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: A melanistic morph of the leopard occurs particularly in mountainous areas and rain forests. The black color is heritable and caused by only one recessive gene locus. In some regions, for example on the Malayan Peninsula, up to half of all leopards are black. In Africa black leopards seem to be most common in the Ethiopian Highlands. While they are commonly called black panthers, the term is not applied exclusively to leopards. Black leopards are less successful on the African plains because their colouration makes them stand out. Black borders refer to municipalities, red to regions. A pseudo-melanistic leopard has a normal background colour, but its excessive markings have coalesced so that its back seems to be an unbroken expanse of black. In some specimens, the area of solid black extends down the flanks and limbs; only a few lateral streaks of golden-brown indicate the presence of normal background colour. Any spots on the flanks and limbs that have not merged into the mass of swirls and stripes are unusually small and discrete, rather than forming rosettes. The face and underparts are paler and dappled like those of ordinary spotted leopards.
+
+Question: What is actually black in color?
+
+Answer:",0.0,0.0,3,384,sentence-transformers/all-MiniLM-L6-v2
+When did he become a professor?,1820,1833,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: He was elected a member of the Royal Society in 1824, appointed director of the laboratory in 1825; and in 1833 he was appointed Fullerian professor of chemistry in the institution for life, without the obligation to deliver lectures. Soon there after he dedicated himself to the study of physics and mathematics (then called positive philosophy), and in 1809 started teaching them at a liceo (high school) in Vercelli (where his family had some properties). However, the university says that he did not receive a degree and  did not continue beyond the first semester of his third year, during which he stopped attending lectures.  Nikola Tesla: the European Years, D. Mrkich 
+
+Question: When did he become a professor?
+
+Answer:",0.0,0.0,3,384,sentence-transformers/all-MiniLM-L6-v2
+"What does ""Era of Good Feelings"" refers to?",Reduced tension,"The Era of Good Feelings refers to a period in United States history from 1815 to 1825, characterized by a sense of national purpose and a decline in partisan politics following the War of 1812.","Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: * George Dangerfield. The Era of Good Feelings (1952).  * Simpson, Brooks D., Ulysses S. Grant: Triumph Over Adversity, 1822-1865, Houghton Mifflin, 2000, ISBN 0-395-65994-9. * Hannaford, Peter, The Quotable Calvin Coolidge (2001), ISBN 1884592333.
+
+Question: What does ""Era of Good Feelings"" refers to?
+
+Answer:",0.0,0.0,3,384,sentence-transformers/all-MiniLM-L6-v2
+Does the state court rule on the conformity of laws?,Yes,Yes,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: Judicial authority is vested in the Regional Court at Vaduz, the Princely High Court of Appeal at Vaduz, the Princely Supreme Court, the Administrative Court, and the State Court. The State Court rules on the conformity of laws with the constitution. The State Court has five members elected by the parliament. ;Government and law Economy and law links
+
+Question: Does the state court rule on the conformity of laws?
+
+Answer:",1.0,1.0,3,384,sentence-transformers/all-MiniLM-L6-v2
+What do turles use to breathe in the water?,Papillae,papillae,"Based on the following context, please answer the question.
+Please provide only a short, direct answer without any explanation or additional information.
+
+Context: Even though many turtles spend large amounts of their lives underwater, all turtles and tortoises breathe air, and must surface at regular intervals to refill their lungs. They can also spend much of their lives on dry land. Aquatic respiration in Australian freshwater turtles is currently being studied. Some species have large cloacal cavities that are lined with many finger-like projections. These projections, called ""papillae"", have a rich blood supply, and serve to increase the surface area of the cloaca. The turtles can take up dissolved oxygen from the water using these papillae, in much the same way that fish use gills to respire. Oxygen is obtained via a tracheal system. Air enters a series of tubes along the body through openings called spiracles, and is then taken into increasingly finer fibres. Pumping movements of the body force the air through the system. Along the inside of the beak they have tiny rows of plates called lamellae like a whale's baleen. These let them filter water out of the side of their beaks and keep food inside.
+
+Question: What do turles use to breathe in the water?
+
+Answer:",1.0,1.0,3,384,sentence-transformers/all-MiniLM-L6-v2
